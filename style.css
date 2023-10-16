@@ -463,19 +463,22 @@ nav ul li a{
 .about{
     width: 100%;
     padding: 78px 0px;
+    
 }
 
 .abt-text{
     width: 800px;
-    margin-top: 500px;
+    margin-top: 550px;
     margin-bottom: 200px;
+    text-align: center;
 }
 
 .abt-text h1{
     font-size: 70px;
     color: white;
-    margin-bottom: 80px;
+    margin-bottom:110px;
     letter-spacing: 1px;
+    text-align: center;
 }
 
 .abt-text h1 span{
